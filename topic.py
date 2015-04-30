@@ -4,7 +4,7 @@ from mustaine.client import HessianProxy
 import urllib2
 import json
 
-proxy = HessianProxy('http://3gwebservice.build.index.netease.com:9011/webservice/3gcms')
+proxy = HessianProxy('http://webservice.build.index.com:9011/webservice/3gcms')
 
 class TopicFetcher:
 
